@@ -1,0 +1,6 @@
+emcee
+numpy
+scipy
+pandas
+mpmath
+numexpr
